@@ -2,7 +2,6 @@
 //  First.swift
 //  buttin
 //
-//  Created by RENAD MAJED ALSHAHRANY  on 04/05/1447 AH.
 //
 
 import SwiftUI
@@ -15,4 +14,3 @@ struct buttinApp: App {
         }
     }
 }
-
